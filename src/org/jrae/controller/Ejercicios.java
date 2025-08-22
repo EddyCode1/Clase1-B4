@@ -89,7 +89,7 @@ public class Ejercicios {
         double resultado;
         do {
             System.out.println("--------------------------------------------------");
-            System.out.println("Bienvenido a Conversion de Centigrados a Fahrenheit");
+            System.out.println("Bienvenido a Conversion de Centigrados a Fahrenheit.");
             System.out.println("--------------------------------------------------");
             System.out.println("Ingresa un numero en grados");
             System.out.println("Ingrese 'SALIDA' para salir de la opcion");
